@@ -1,0 +1,90 @@
+body {
+  background-color: #e38242;
+}
+
+h1 {
+  text-align: center;
+  font-size: 64px;
+  color: white;
+}
+
+p {
+  font-style: italic;
+  font-size: 18px;
+}
+
+blockquote {
+  text-align: center;
+}
+
+img {
+  width: 40%;
+}
+
+#main-photo {
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+
+#subheader {
+  color: #2b1d13;
+  font-size: 20px
+}
+
+div {
+  text-align: center;
+}
+
+figcaption {
+  text-align: center;
+  font-style: italic;
+}
+
+.fun-fact {
+  padding-left: 10px;
+  list-style-type: "- ";
+}
+
+.important-event {
+  border: 2px solid #2b1d13;
+  margin-top: 20px;
+  margin-right: 0px;
+  margin-bottom: 30px;
+  margin-left: 0px;
+}
+
+#quote {
+  border: 4px dotted white;
+  margin: 20px 1px 20px 1px;
+  padding: 15px;
+}
+
+#extra {
+  text-align: center;
+  font-weight: bold;
+  font-variant: small-caps;
+  font-size: 18px
+}
+
+.navbar {
+  background-color: white;
+  color: black;
+  width: 100%;
+}
+
+.nav-links {
+  padding: 0;
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  list-style: none;
+}
+
+.nav-item {
+  padding: 10px 15px;
+  display: inline-block;
+}
+
+.ul {
+  list-style-type: none;
+}
